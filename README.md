@@ -1,1 +1,1 @@
-# Restaurant-dishes-advance-managing-system
+# Advance restaurant dishes managing system
