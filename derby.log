@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jan 24 16:29:34 CST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017e-8e35-71b5-00000cb0ead0 
+on database directory /Users/minhdaonguyen/NetBeansProjects/JavaApplication4/CUISINES with class loader sun.misc.Launcher$AppClassLoader@610455d6 
+Loaded from file:/Users/minhdaonguyen/GlassFish_Server/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_281-b09
+user.dir=/Users/minhdaonguyen/NetBeansProjects/JavaApplication4
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
