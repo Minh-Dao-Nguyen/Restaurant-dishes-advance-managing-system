@@ -40,6 +40,8 @@ public class Welcome extends JFrame implements ActionListener
     private JMenuBar mainBar;
     private JMenu moreMenu;
     private JMenuItem helpMenu;
+    private JMenuItem documentation;
+    private JMenuItem online;
     //JLabel
     private JLabel nameLabel;
     private JLabel picLabel;
@@ -104,6 +106,8 @@ public class Welcome extends JFrame implements ActionListener
         mainBar.setBackground(GRAY);
         this.moreMenu = new JMenu("More");
         this.helpMenu = new JMenuItem("Help");
+        this.documentation = new JMenuItem("Documentation");
+        this.online = new JMenuItem("Online resources");
         helpMenu.addActionListener(this);
         moreMenu.add(helpMenu);
         mainBar.add(moreMenu);
